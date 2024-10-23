@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav Acharya from BreakingTheBinary
+- 👋 Hi, I’m Gaurav Acharya
 - 👀 I’m interested in exploring Python Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python programming project
